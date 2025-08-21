@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf2text", "pdf2text\pdf2text.csproj", "{A2535C6C-D3E4-47CA-95A5-20D68B05B7F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpReader", "SharpReader\SharpReader.csproj", "{A2535C6C-D3E4-47CA-95A5-20D68B05B7F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

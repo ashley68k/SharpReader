@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace pdf2text;
+namespace SharpReader;
 
 class Program
 {

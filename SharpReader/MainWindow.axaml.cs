@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace pdf2text;
+namespace SharpReader;
 
 public partial class MainWindow : Window
 {
